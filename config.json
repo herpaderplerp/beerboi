@@ -1,0 +1,18 @@
+{
+  "pollIntervalSec":120,
+  "accessControl":{
+    "enabled":false,
+    "admins":[]
+  },
+  "untappd":{
+    "debug":true,
+    "clientId":"",
+    "clientSecret":"",
+    "accessToken":""
+  },
+  "registeredUsers":[],
+  "bannedUsers":[],
+  "userDataCache":{}
+
+
+}
